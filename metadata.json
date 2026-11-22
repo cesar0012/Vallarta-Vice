@@ -1,0 +1,6 @@
+{
+  "name": "Vallarta Vice",
+  "description": "Juego 3D de mundo abierto al estilo Grand Theft Auto ambientado en toda la costa de Puerto Vallarta, México, desde el Aeropuerto hasta Mismaloya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

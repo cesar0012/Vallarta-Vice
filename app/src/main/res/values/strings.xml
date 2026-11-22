@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Vallarta Vice</string>
+    <string name="title_subtitle">PUERTO VALLARTA • JALISCO</string>
+    <string name="action_play">JUGAR AHORA</string>
+    <string name="action_free_roam">MODO LIBRE</string>
+    <string name="action_enter_vehicle">ROBAR / SUBIR</string>
+    <string name="action_exit_vehicle">BAJAR</string>
+    <string name="action_sprint">CORRER</string>
+    <string name="action_jump">SALTAR</string>
+    <string name="action_climb">ESCALAR</string>
+    <string name="action_attack">GOLPEAR</string>
+    <string name="action_nitro">NITRO</string>
+    <string name="action_drift">DRIFT</string>
+    <string name="action_horn">CLAXON</string>
+    <string name="action_camera">CÁMARA</string>
+    <string name="action_map">MAPA GPS</string>
+    <string name="action_missions">MISIONES</string>
+    <string name="action_radio">RADIO</string>
+    <string name="action_time">HORA</string>
+    <string name="action_sync_osm">OSM 3D</string>
+    <string name="map_title">MAPA DE PUERTO VALLARTA</string>
+    <string name="map_subtitle">ESCALA 1:1 • 17.8 KM COSTA + 6 KM INTERIOR</string>
+    <string name="map_teleport">VIAJE RÁPIDO</string>
+    <string name="missions_title">MISIONES EN LA BAHÍA</string>
+    <string name="hud_health">SALUD</string>
+    <string name="hud_wanted">BUSCADO</string>
+    <string name="cd_splash_art">Ilustración de portada de Vallarta Vice en el Malecón de Puerto Vallarta</string>
+    <string name="cd_minimap">Minimapa GPS de Puerto Vallarta</string>
+    <string name="cd_camera_toggle">Cambiar ángulo de cámara 3D</string>
+    <string name="cd_time_toggle">Cambiar hora del día</string>
+    <string name="cd_radio_toggle">Cambiar estación de radio</string>
+    <string name="cd_missions_button">Abrir menú de misiones</string>
+    <string name="cd_osm_sync">Sincronizar edificios 3D reales de OpenStreetMap</string>
+    <string name="cd_close_overlay">Cerrar panel</string>
+    <string name="cd_spawn_car">Solicitar superdeportivo</string>
+    <string name="cd_clear_wanted">Sobornar policía para quitar estrellas</string>
+</resources>
